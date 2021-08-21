@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Great Locations</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -24,12 +26,12 @@
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>We need to take a picture!</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>We need to take a picture!</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>This app requires your device location</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>This app requires your device location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app requires your device location</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need to take a picture!</string>
 	<key>UIBackgroundModes</key>
 	<string>location</string>
 	<key>UILaunchStoryboardName</key>
